@@ -102,11 +102,3 @@ Use `sample_equipment_data.csv` in the project root for testing. Columns: **Equi
 | GET | `/api/data/<id>/` | No | Full table data |
 | GET | `/api/report/<id>/pdf/?token=<token>` | Token | Download PDF report |
 
-## Submission
-
-- Source code on **GitHub** (backend + both frontends).
-- **README** with setup instructions (this file).
-- Short **demo video** (2–3 minutes).
-- Optional: deployment link for web version.
-
-Submit via: https://forms.gle/bSiKezbM4Ji9xnw66
